@@ -347,9 +347,7 @@
     ]
   },
   "K33-C-Kelder": {
-    "accesspoints": [
-      "80E01DF8AF10"
-    ]
+    "accesspoint": "80E01DF8AF10"
   },
   "K33-NO-0.*": {
     "accesspoints": [
@@ -813,9 +811,7 @@
     ]
   },
   "LvS2-NO-Kelder.*": {
-    "accesspoints": [
-      "24B6574233B0"
-    ]
+    "accesspoint": "24B6574233B0"
   },
   "MO3-NO-0.*": {
     "accesspoints": [
@@ -925,9 +921,7 @@
     ]
   },
   "R26-B-1.16": {
-    "accesspoints": [
-      "E86549456ED0"
-    ]
+    "accesspoint": "E86549456ED0"
   },
   "R26-B-2.*": {
     "accesspoints": [
@@ -950,9 +944,7 @@
     ]
   },
   "R26-B-2.04": {
-    "accesspoints": [
-      "80E01DF93250"
-    ]
+    "accesspoint": "80E01DF93250"
   },
   "R26-B-3.*": {
     "accesspoints": [
@@ -973,9 +965,7 @@
     ]
   },
   "R26-B-Parking": {
-    "accesspoints": [
-      "00351ACB1E50"
-    ]
+    "accesspoint": "00351ACB1E50"
   },
   "R26-C-0.*": {
     "accesspoints": [
@@ -1047,59 +1037,37 @@
     ]
   },
   "R26-D-1.*": {
-    "accesspoints": [
-      "7C95F300A590"
-    ]
+    "accesspoint": "7C95F300A590"
   },
   "R26-D-1.02": {
-    "accesspoints": [
-      "7C95F300A950"
-    ]
+    "accesspoint": "7C95F300A950"
   },
   "R26-D-1.03": {
-    "accesspoints": [
-      "7C95F300AC00"
-    ]
+    "accesspoint": "7C95F300AC00"
   },
   "R26-D-1.04": {
-    "accesspoints": [
-      "DCA5F44D58C0"
-    ]
+    "accesspoint": "DCA5F44D58C0"
   },
   "R26-D-1.06": {
-    "accesspoints": [
-      "DCA5F44D2F40"
-    ]
+    "accesspoint": "DCA5F44D2F40"
   },
   "R26-D-1.08": {
-    "accesspoints": [
-      "7C95F300AA10"
-    ]
+    "accesspoint": "7C95F300AA10"
   },
   "R26-D-1.10": {
-    "accesspoints": [
-      "7C95F30A59F0"
-    ]
+    "accesspoint": "7C95F30A59F0"
   },
   "R26-D-1.11": {
-    "accesspoints": [
-      "DCA5F44D3050"
-    ]
+    "accesspoint": "DCA5F44D3050"
   },
   "R26-D-1.12": {
-    "accesspoints": [
-      "DCA5F44D2E70"
-    ]
+    "accesspoint": "DCA5F44D2E70"
   },
   "R26-D-1.13": {
-    "accesspoints": [
-      "7C95F300A620"
-    ]
+    "accesspoint": "7C95F300A620"
   },
   "R26-D-1.Gang Achterin": {
-    "accesspoints": [
-      "DCA5F48DD920"
-    ]
+    "accesspoint": "DCA5F48DD920"
   },
   "R26-D-2.*": {
     "accesspoints": [
@@ -1125,14 +1093,10 @@
     ]
   },
   "R26-E-0.13": {
-    "accesspoints": [
-      "DCA5F48D8BD0"
-    ]
+    "accesspoint": "DCA5F48D8BD0"
   },
   "R26-E-0.15": {
-    "accesspoints": [
-      "DCA5F44D2700"
-    ]
+    "accesspoint": "DCA5F44D2700"
   },
   "R26-E-1.*": {
     "accesspoints": [
@@ -1237,9 +1201,7 @@
     ]
   },
   "R26-NO-Studievereeniging": {
-    "accesspoints": [
-      "DCA5F48DA9D0"
-    ]
+    "accesspoint": "DCA5F48DA9D0"
   },
   "R27-A-3.*": {
     "accesspoints": [
@@ -1305,9 +1267,7 @@
     ]
   },
   "R27-NO-4.*": {
-    "accesspoints": [
-      "580A209093D0"
-    ]
+    "accesspoint": "580A209093D0"
   },
   "R29-NO-0.*": {
     "accesspoints": [
