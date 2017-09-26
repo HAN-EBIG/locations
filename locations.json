@@ -1092,6 +1092,9 @@
       "DCA5F48DE190"
     ]
   },
+  "R26-E-0.12": {
+    "accesspoint": "DCA5F44D3450"
+  },
   "R26-E-0.13": {
     "accesspoint": "DCA5F48D8BD0"
   },
@@ -1195,7 +1198,6 @@
       "DCA5F44D31A0",
       "DCA5F44D3310",
       "DCA5F44D33D0",
-      "DCA5F44D3450",
       "DCA5F48D8000",
       "DCA5F48DDCF0"
     ]
